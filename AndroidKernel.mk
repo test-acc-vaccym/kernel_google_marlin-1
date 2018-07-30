@@ -1,6 +1,6 @@
 export KBUILD_BUILD_TIMESTAMP := $(shell $(DATE))
-export KBUILD_BUILD_USER := hardenedos
-export KBUILD_BUILD_HOST := hardenedos
+export KBUILD_BUILD_USER := titaniumos
+export KBUILD_BUILD_HOST := titaniumos
 
 #Android makefile to build kernel as a part of Android Build
 PERL		= perl
